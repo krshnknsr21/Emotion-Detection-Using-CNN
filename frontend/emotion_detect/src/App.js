@@ -5,7 +5,7 @@ import Form from "./pages/Form.jsx";
 function App() {
   return (
     <div className="App">
-      <h1>AudioLytic: Mood Based Song Recommendation ML model</h1>
+      <h1>Emotion Detection Using CNN</h1>
       <Form />
     </div>
   );
